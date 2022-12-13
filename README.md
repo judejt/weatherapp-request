@@ -1,2 +1,2 @@
 # weatherapp-request
-Simple weather App using both the requests libaray 
+Simple python weather App using both the requests library and the openweatherapi 
